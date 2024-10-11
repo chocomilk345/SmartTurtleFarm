@@ -1,6 +1,5 @@
 # SmartTurtleFarm Project
 AIoT, Turtlebot, Line Tracer를 이용한 스마트팜
-SmartFarm with turtlebot and line tracer
 
 ## Team members
 1. 정용재
