@@ -1,5 +1,5 @@
 # SmartTurtleFarm Project
-AIoT, Turtlebot, Line Tracer를 이용한 스마트팜
+AIoT, Turtlebot, Line Tracer를 활용한 스마트팜
 
 ## Team members
 1. 정용재
@@ -31,7 +31,7 @@ AIoT, Turtlebot, Line Tracer를 이용한 스마트팜
       Jetson Nano, Yolov8, Tensorflow, OpenCV, Python
    - 서버와 socket 통신
 3. Server
-   - Qt,SQLite, TCP/IP, Wi-fi, C++, Linux
+   - Qt,SQLite, TCP/IP, Wi-fi, C++, Linux<br/><br/>
 
 
 
